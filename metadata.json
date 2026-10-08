@@ -1,0 +1,6 @@
+{
+  "name": "The Golden Fork – Restaurant & Café",
+  "description": "100% Pure Vegetarian Royal Indian Fine Dining & Café featuring signature thalis, sizzling tandoori paneer, copper handi curries, and online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
